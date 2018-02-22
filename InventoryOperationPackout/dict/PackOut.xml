@@ -3,7 +3,7 @@
         <SeqNo>999</SeqNo>
         <AD_Client_ID>0</AD_Client_ID>
         <AD_Org_ID>0</AD_Org_ID>
-        <Name>Inventory Operations dsafsdfasda </Name>
+        <Name>InventoryOperation</Name>
         <Description/>
         <Action>W</Action>
         <AD_Window_ID reference="uuid" reference-key="AD_Window">8b4f5d2b-a72a-4e62-a4bb-92300a81c655</AD_Window_ID>
